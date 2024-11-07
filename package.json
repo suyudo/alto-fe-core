@@ -1,5 +1,5 @@
 {
-  "name": "alto-core",
+  "name": "test-component-core",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -42,5 +42,20 @@
     "next": "^15.0.2",
     "prettier": "^2.8.8",
     "webpack-dev-server": "^5.1.0"
-  }
+  },
+  "description": "🎉 Congratulations, your project was successfully generated with [Create Next Stack](https://www.create-next-stack.com/)!",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suyudo/alto-fe-core.git"
+  },
+  "keywords": [
+    "component"
+  ],
+  "author": "suyudo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suyudo/alto-fe-core/issues"
+  },
+  "homepage": "https://github.com/suyudo/alto-fe-core#readme"
 }
